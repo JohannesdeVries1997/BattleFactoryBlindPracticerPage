@@ -11,7 +11,7 @@
     "SpDef": 65,
     "Spe": 45,
     "Ability1": "Overgrow",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 2,
@@ -25,7 +25,7 @@
     "SpDef": 80,
     "Spe": 60,
     "Ability1": "Overgrow",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 3,
@@ -39,13 +39,13 @@
     "SpDef": 100,
     "Spe": 80,
     "Ability1": "Overgrow",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 4,
     "Name": "Charmander",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 39,
     "Att": 52,
     "Def": 43,
@@ -53,13 +53,13 @@
     "SpDef": 50,
     "Spe": 65,
     "Ability1": "Blaze",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 5,
     "Name": "Charmeleon",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 58,
     "Att": 64,
     "Def": 58,
@@ -67,7 +67,7 @@
     "SpDef": 65,
     "Spe": 80,
     "Ability1": "Blaze",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 6,
@@ -81,13 +81,13 @@
     "SpDef": 85,
     "Spe": 100,
     "Ability1": "Blaze",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 7,
     "Name": "Squirtle",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 44,
     "Att": 48,
     "Def": 65,
@@ -95,13 +95,13 @@
     "SpDef": 64,
     "Spe": 43,
     "Ability1": "Torrent",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 8,
     "Name": "Wartortle",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 59,
     "Att": 63,
     "Def": 80,
@@ -109,13 +109,13 @@
     "SpDef": 80,
     "Spe": 58,
     "Ability1": "Torrent",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 9,
     "Name": "Blastoise",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 79,
     "Att": 83,
     "Def": 100,
@@ -123,13 +123,13 @@
     "SpDef": 105,
     "Spe": 78,
     "Ability1": "Torrent",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 10,
     "Name": "Caterpie",
     "Type1": "Bug",
-    "Type2": "",
+    "Type2": "None",
     "HP": 45,
     "Att": 30,
     "Def": 35,
@@ -137,13 +137,13 @@
     "SpDef": 20,
     "Spe": 45,
     "Ability1": "Shield dust",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 11,
     "Name": "Metapod",
     "Type1": "Bug",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 20,
     "Def": 55,
@@ -151,7 +151,7 @@
     "SpDef": 25,
     "Spe": 30,
     "Ability1": "Shed skin",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 12,
@@ -165,7 +165,7 @@
     "SpDef": 80,
     "Spe": 70,
     "Ability1": "Compoundeyes",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 13,
@@ -179,7 +179,7 @@
     "SpDef": 20,
     "Spe": 50,
     "Ability1": "Shield dust",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 14,
@@ -193,7 +193,7 @@
     "SpDef": 25,
     "Spe": 35,
     "Ability1": "Shed skin",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 15,
@@ -207,7 +207,7 @@
     "SpDef": 80,
     "Spe": 75,
     "Ability1": "Swarm",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 16,
@@ -221,7 +221,7 @@
     "SpDef": 35,
     "Spe": 56,
     "Ability1": "Keen eye",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 17,
@@ -235,7 +235,7 @@
     "SpDef": 50,
     "Spe": 71,
     "Ability1": "Keen eye",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 18,
@@ -249,13 +249,13 @@
     "SpDef": 70,
     "Spe": 91,
     "Ability1": "Keen eye",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 19,
     "Name": "Rattata",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 30,
     "Att": 56,
     "Def": 35,
@@ -269,7 +269,7 @@
     "PokedexNumber": 20,
     "Name": "Raticate",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 55,
     "Att": 81,
     "Def": 60,
@@ -291,7 +291,7 @@
     "SpDef": 31,
     "Spe": 70,
     "Ability1": "Keen eye",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 22,
@@ -305,13 +305,13 @@
     "SpDef": 61,
     "Spe": 100,
     "Ability1": "Keen eye",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 23,
     "Name": "Ekans",
     "Type1": "Poison",
-    "Type2": "",
+    "Type2": "None",
     "HP": 35,
     "Att": 60,
     "Def": 44,
@@ -325,7 +325,7 @@
     "PokedexNumber": 24,
     "Name": "Arbok",
     "Type1": "Poison",
-    "Type2": "",
+    "Type2": "None",
     "HP": 60,
     "Att": 95,
     "Def": 69,
@@ -339,7 +339,7 @@
     "PokedexNumber": 25,
     "Name": "Pikachu",
     "Type1": "Electric",
-    "Type2": "",
+    "Type2": "None",
     "HP": 35,
     "Att": 55,
     "Def": 30,
@@ -347,13 +347,13 @@
     "SpDef": 40,
     "Spe": 90,
     "Ability1": "Static",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 26,
     "Name": "Raichu",
     "Type1": "Electric",
-    "Type2": "",
+    "Type2": "None",
     "HP": 60,
     "Att": 90,
     "Def": 55,
@@ -361,13 +361,13 @@
     "SpDef": 80,
     "Spe": 100,
     "Ability1": "Static",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 27,
     "Name": "Sandshrew",
     "Type1": "Ground",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 75,
     "Def": 85,
@@ -375,13 +375,13 @@
     "SpDef": 30,
     "Spe": 40,
     "Ability1": "Sand veil",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 28,
     "Name": "Sandslash",
     "Type1": "Ground",
-    "Type2": "",
+    "Type2": "None",
     "HP": 75,
     "Att": 100,
     "Def": 110,
@@ -389,13 +389,13 @@
     "SpDef": 55,
     "Spe": 65,
     "Ability1": "Sand veil",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 29,
     "Name": "Nidoran F",
     "Type1": "Poison",
-    "Type2": "",
+    "Type2": "None",
     "HP": 55,
     "Att": 47,
     "Def": 52,
@@ -403,13 +403,13 @@
     "SpDef": 40,
     "Spe": 41,
     "Ability1": "Poison point",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 30,
     "Name": "Nidorina",
     "Type1": "Poison",
-    "Type2": "",
+    "Type2": "None",
     "HP": 70,
     "Att": 62,
     "Def": 67,
@@ -417,7 +417,7 @@
     "SpDef": 55,
     "Spe": 56,
     "Ability1": "Poison point",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 31,
@@ -431,13 +431,13 @@
     "SpDef": 85,
     "Spe": 76,
     "Ability1": "Poison point",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 32,
     "Name": "Nidoran M",
     "Type1": "Poison",
-    "Type2": "",
+    "Type2": "None",
     "HP": 46,
     "Att": 57,
     "Def": 40,
@@ -445,13 +445,13 @@
     "SpDef": 40,
     "Spe": 50,
     "Ability1": "Poison point",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 33,
     "Name": "Nidorino",
     "Type1": "Poison",
-    "Type2": "",
+    "Type2": "None",
     "HP": 61,
     "Att": 72,
     "Def": 57,
@@ -459,7 +459,7 @@
     "SpDef": 55,
     "Spe": 65,
     "Ability1": "Poison point",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 34,
@@ -473,13 +473,13 @@
     "SpDef": 75,
     "Spe": 85,
     "Ability1": "Poison point",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 35,
     "Name": "Clefairy",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 70,
     "Att": 45,
     "Def": 48,
@@ -487,13 +487,13 @@
     "SpDef": 65,
     "Spe": 35,
     "Ability1": "Cute charm",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 36,
     "Name": "Clefable",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 95,
     "Att": 70,
     "Def": 73,
@@ -501,13 +501,13 @@
     "SpDef": 90,
     "Spe": 60,
     "Ability1": "Cute charm",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 37,
     "Name": "Vulpix",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 38,
     "Att": 41,
     "Def": 40,
@@ -515,13 +515,13 @@
     "SpDef": 65,
     "Spe": 65,
     "Ability1": "Flash fire",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 38,
     "Name": "Ninetales",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 73,
     "Att": 76,
     "Def": 75,
@@ -529,13 +529,13 @@
     "SpDef": 100,
     "Spe": 100,
     "Ability1": "Flash fire",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 39,
     "Name": "Jigglypuff",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 115,
     "Att": 45,
     "Def": 20,
@@ -543,13 +543,13 @@
     "SpDef": 25,
     "Spe": 20,
     "Ability1": "Cute charm",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 40,
     "Name": "Wigglytuff",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 140,
     "Att": 70,
     "Def": 45,
@@ -557,7 +557,7 @@
     "SpDef": 50,
     "Spe": 45,
     "Ability1": "Cute charm",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 41,
@@ -571,7 +571,7 @@
     "SpDef": 40,
     "Spe": 55,
     "Ability1": "Inner focus",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 42,
@@ -585,7 +585,7 @@
     "SpDef": 75,
     "Spe": 90,
     "Ability1": "Inner focus",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 43,
@@ -599,7 +599,7 @@
     "SpDef": 65,
     "Spe": 30,
     "Ability1": "Chlorophyll",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 44,
@@ -613,7 +613,7 @@
     "SpDef": 75,
     "Spe": 40,
     "Ability1": "Chlorophyll",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 45,
@@ -627,7 +627,7 @@
     "SpDef": 90,
     "Spe": 50,
     "Ability1": "Chlorophyll",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 46,
@@ -641,7 +641,7 @@
     "SpDef": 55,
     "Spe": 25,
     "Ability1": "Effect spore",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 47,
@@ -655,7 +655,7 @@
     "SpDef": 80,
     "Spe": 30,
     "Ability1": "Effect spore",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 48,
@@ -669,7 +669,7 @@
     "SpDef": 55,
     "Spe": 45,
     "Ability1": "Compoundeyes",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 49,
@@ -683,13 +683,13 @@
     "SpDef": 75,
     "Spe": 90,
     "Ability1": "Shield dust",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 50,
     "Name": "Diglett",
     "Type1": "Ground",
-    "Type2": "",
+    "Type2": "None",
     "HP": 10,
     "Att": 55,
     "Def": 25,
@@ -703,7 +703,7 @@
     "PokedexNumber": 51,
     "Name": "Dugtrio",
     "Type1": "Ground",
-    "Type2": "",
+    "Type2": "None",
     "HP": 35,
     "Att": 100,
     "Def": 50,
@@ -717,7 +717,7 @@
     "PokedexNumber": 52,
     "Name": "Meowth",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 40,
     "Att": 45,
     "Def": 35,
@@ -725,13 +725,13 @@
     "SpDef": 40,
     "Spe": 90,
     "Ability1": "Pickup",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 53,
     "Name": "Persian",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 70,
     "Def": 60,
@@ -739,13 +739,13 @@
     "SpDef": 65,
     "Spe": 115,
     "Ability1": "Limber",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 54,
     "Name": "Psyduck",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 52,
     "Def": 48,
@@ -759,7 +759,7 @@
     "PokedexNumber": 55,
     "Name": "Golduck",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 80,
     "Att": 82,
     "Def": 78,
@@ -773,7 +773,7 @@
     "PokedexNumber": 56,
     "Name": "Mankey",
     "Type1": "Fighting",
-    "Type2": "",
+    "Type2": "None",
     "HP": 40,
     "Att": 80,
     "Def": 35,
@@ -781,13 +781,13 @@
     "SpDef": 45,
     "Spe": 70,
     "Ability1": "Vital spirit",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 57,
     "Name": "Primeape",
     "Type1": "Fighting",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 105,
     "Def": 60,
@@ -795,13 +795,13 @@
     "SpDef": 70,
     "Spe": 95,
     "Ability1": "Vital spirit",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 58,
     "Name": "Growlithe",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 55,
     "Att": 70,
     "Def": 45,
@@ -815,7 +815,7 @@
     "PokedexNumber": 59,
     "Name": "Arcanine",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 90,
     "Att": 110,
     "Def": 80,
@@ -829,7 +829,7 @@
     "PokedexNumber": 60,
     "Name": "Poliwag",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 40,
     "Att": 50,
     "Def": 40,
@@ -843,7 +843,7 @@
     "PokedexNumber": 61,
     "Name": "Poliwhirl",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 65,
     "Def": 65,
@@ -871,7 +871,7 @@
     "PokedexNumber": 63,
     "Name": "Abra",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 25,
     "Att": 20,
     "Def": 15,
@@ -885,7 +885,7 @@
     "PokedexNumber": 64,
     "Name": "Kadabra",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 40,
     "Att": 35,
     "Def": 30,
@@ -899,7 +899,7 @@
     "PokedexNumber": 65,
     "Name": "Alakazam",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 55,
     "Att": 50,
     "Def": 45,
@@ -913,7 +913,7 @@
     "PokedexNumber": 66,
     "Name": "Machop",
     "Type1": "Fighting",
-    "Type2": "",
+    "Type2": "None",
     "HP": 70,
     "Att": 80,
     "Def": 50,
@@ -921,13 +921,13 @@
     "SpDef": 35,
     "Spe": 35,
     "Ability1": "Guts",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 67,
     "Name": "Machoke",
     "Type1": "Fighting",
-    "Type2": "",
+    "Type2": "None",
     "HP": 80,
     "Att": 100,
     "Def": 70,
@@ -935,13 +935,13 @@
     "SpDef": 60,
     "Spe": 45,
     "Ability1": "Guts",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 68,
     "Name": "Machamp",
     "Type1": "Fighting",
-    "Type2": "",
+    "Type2": "None",
     "HP": 90,
     "Att": 130,
     "Def": 80,
@@ -949,7 +949,7 @@
     "SpDef": 85,
     "Spe": 55,
     "Ability1": "Guts",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 69,
@@ -963,7 +963,7 @@
     "SpDef": 30,
     "Spe": 40,
     "Ability1": "Chlorophyll",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 70,
@@ -977,7 +977,7 @@
     "SpDef": 45,
     "Spe": 55,
     "Ability1": "Chlorophyll",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 71,
@@ -991,7 +991,7 @@
     "SpDef": 60,
     "Spe": 70,
     "Ability1": "Chlorophyll",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 72,
@@ -1067,7 +1067,7 @@
     "PokedexNumber": 77,
     "Name": "Ponyta",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 85,
     "Def": 55,
@@ -1081,7 +1081,7 @@
     "PokedexNumber": 78,
     "Name": "Rapidash",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 100,
     "Def": 70,
@@ -1193,7 +1193,7 @@
     "PokedexNumber": 86,
     "Name": "Seel",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 45,
     "Def": 55,
@@ -1201,7 +1201,7 @@
     "SpDef": 70,
     "Spe": 45,
     "Ability1": "Thick fat",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 87,
@@ -1215,13 +1215,13 @@
     "SpDef": 95,
     "Spe": 70,
     "Ability1": "Thick fat",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 88,
     "Name": "Grimer",
     "Type1": "Poison",
-    "Type2": "",
+    "Type2": "None",
     "HP": 80,
     "Att": 80,
     "Def": 50,
@@ -1235,7 +1235,7 @@
     "PokedexNumber": 89,
     "Name": "Muk",
     "Type1": "Poison",
-    "Type2": "",
+    "Type2": "None",
     "HP": 105,
     "Att": 105,
     "Def": 75,
@@ -1249,7 +1249,7 @@
     "PokedexNumber": 90,
     "Name": "Shellder",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 30,
     "Att": 65,
     "Def": 100,
@@ -1257,7 +1257,7 @@
     "SpDef": 25,
     "Spe": 40,
     "Ability1": "Shell armor",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 91,
@@ -1271,7 +1271,7 @@
     "SpDef": 45,
     "Spe": 70,
     "Ability1": "Shell armor",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 92,
@@ -1285,7 +1285,7 @@
     "SpDef": 35,
     "Spe": 80,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 93,
@@ -1299,7 +1299,7 @@
     "SpDef": 55,
     "Spe": 95,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 94,
@@ -1313,7 +1313,7 @@
     "SpDef": 75,
     "Spe": 110,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 95,
@@ -1333,7 +1333,7 @@
     "PokedexNumber": 96,
     "Name": "Drowzee",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 60,
     "Att": 48,
     "Def": 45,
@@ -1341,13 +1341,13 @@
     "SpDef": 90,
     "Spe": 42,
     "Ability1": "Insomnia",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 97,
     "Name": "Hypno",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 85,
     "Att": 73,
     "Def": 70,
@@ -1355,13 +1355,13 @@
     "SpDef": 115,
     "Spe": 67,
     "Ability1": "Insomnia",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 98,
     "Name": "Krabby",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 30,
     "Att": 105,
     "Def": 90,
@@ -1375,7 +1375,7 @@
     "PokedexNumber": 99,
     "Name": "Kingler",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 55,
     "Att": 130,
     "Def": 115,
@@ -1389,7 +1389,7 @@
     "PokedexNumber": 100,
     "Name": "Voltorb",
     "Type1": "Electric",
-    "Type2": "",
+    "Type2": "None",
     "HP": 40,
     "Att": 30,
     "Def": 50,
@@ -1403,7 +1403,7 @@
     "PokedexNumber": 101,
     "Name": "Electrode",
     "Type1": "Electric",
-    "Type2": "",
+    "Type2": "None",
     "HP": 60,
     "Att": 50,
     "Def": 70,
@@ -1425,7 +1425,7 @@
     "SpDef": 45,
     "Spe": 40,
     "Ability1": "Chlorophyll",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 103,
@@ -1439,13 +1439,13 @@
     "SpDef": 75,
     "Spe": 55,
     "Ability1": "Chlorophyll",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 104,
     "Name": "Cubone",
     "Type1": "Ground",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 50,
     "Def": 95,
@@ -1459,7 +1459,7 @@
     "PokedexNumber": 105,
     "Name": "Marowak",
     "Type1": "Ground",
-    "Type2": "",
+    "Type2": "None",
     "HP": 60,
     "Att": 80,
     "Def": 110,
@@ -1473,7 +1473,7 @@
     "PokedexNumber": 106,
     "Name": "Hitmonlee",
     "Type1": "Fighting",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 120,
     "Def": 53,
@@ -1481,13 +1481,13 @@
     "SpDef": 110,
     "Spe": 87,
     "Ability1": "Limber",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 107,
     "Name": "Hitmonchan",
     "Type1": "Fighting",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 105,
     "Def": 79,
@@ -1495,13 +1495,13 @@
     "SpDef": 110,
     "Spe": 76,
     "Ability1": "Keen eye",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 108,
     "Name": "Lickitung",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 90,
     "Att": 55,
     "Def": 75,
@@ -1515,7 +1515,7 @@
     "PokedexNumber": 109,
     "Name": "Koffing",
     "Type1": "Poison",
-    "Type2": "",
+    "Type2": "None",
     "HP": 40,
     "Att": 65,
     "Def": 95,
@@ -1523,13 +1523,13 @@
     "SpDef": 45,
     "Spe": 35,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 110,
     "Name": "Weezing",
     "Type1": "Poison",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 90,
     "Def": 120,
@@ -1537,7 +1537,7 @@
     "SpDef": 70,
     "Spe": 60,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 111,
@@ -1571,7 +1571,7 @@
     "PokedexNumber": 113,
     "Name": "Chansey",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 250,
     "Att": 5,
     "Def": 5,
@@ -1585,7 +1585,7 @@
     "PokedexNumber": 114,
     "Name": "Tangela",
     "Type1": "Grass",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 55,
     "Def": 115,
@@ -1593,13 +1593,13 @@
     "SpDef": 40,
     "Spe": 60,
     "Ability1": "Chlorophyll",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 115,
     "Name": "Kangaskhan",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 105,
     "Att": 95,
     "Def": 80,
@@ -1607,13 +1607,13 @@
     "SpDef": 80,
     "Spe": 90,
     "Ability1": "Early bird",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 116,
     "Name": "Horsea",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 30,
     "Att": 40,
     "Def": 70,
@@ -1621,13 +1621,13 @@
     "SpDef": 25,
     "Spe": 60,
     "Ability1": "Swift swim",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 117,
     "Name": "Seadra",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 55,
     "Att": 65,
     "Def": 95,
@@ -1635,13 +1635,13 @@
     "SpDef": 45,
     "Spe": 85,
     "Ability1": "Poison point",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 118,
     "Name": "Goldeen",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 45,
     "Att": 67,
     "Def": 60,
@@ -1655,7 +1655,7 @@
     "PokedexNumber": 119,
     "Name": "Seaking",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 80,
     "Att": 92,
     "Def": 65,
@@ -1669,7 +1669,7 @@
     "PokedexNumber": 120,
     "Name": "Staryu",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 30,
     "Att": 45,
     "Def": 55,
@@ -1697,7 +1697,7 @@
     "PokedexNumber": 122,
     "Name": "Mr Mime",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 40,
     "Att": 45,
     "Def": 65,
@@ -1705,7 +1705,7 @@
     "SpDef": 120,
     "Spe": 90,
     "Ability1": "Soundproof",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 123,
@@ -1719,7 +1719,7 @@
     "SpDef": 80,
     "Spe": 105,
     "Ability1": "Swarm",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 124,
@@ -1733,13 +1733,13 @@
     "SpDef": 95,
     "Spe": 95,
     "Ability1": "Oblivious",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 125,
     "Name": "Electabuzz",
     "Type1": "Electric",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 83,
     "Def": 57,
@@ -1747,13 +1747,13 @@
     "SpDef": 85,
     "Spe": 105,
     "Ability1": "Static",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 126,
     "Name": "Magmar",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 95,
     "Def": 57,
@@ -1761,13 +1761,13 @@
     "SpDef": 85,
     "Spe": 93,
     "Ability1": "Flame body",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 127,
     "Name": "Pinsir",
     "Type1": "Bug",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 125,
     "Def": 100,
@@ -1775,13 +1775,13 @@
     "SpDef": 70,
     "Spe": 85,
     "Ability1": "Hyper cutter",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 128,
     "Name": "Tauros",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 75,
     "Att": 100,
     "Def": 95,
@@ -1789,13 +1789,13 @@
     "SpDef": 70,
     "Spe": 110,
     "Ability1": "Intimidate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 129,
     "Name": "Magikarp",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 20,
     "Att": 10,
     "Def": 55,
@@ -1803,7 +1803,7 @@
     "SpDef": 20,
     "Spe": 80,
     "Ability1": "Swift swim",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 130,
@@ -1817,7 +1817,7 @@
     "SpDef": 100,
     "Spe": 81,
     "Ability1": "Intimidate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 131,
@@ -1837,7 +1837,7 @@
     "PokedexNumber": 132,
     "Name": "Ditto",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 48,
     "Att": 48,
     "Def": 48,
@@ -1845,13 +1845,13 @@
     "SpDef": 48,
     "Spe": 48,
     "Ability1": "Limber",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 133,
     "Name": "Eevee",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 55,
     "Att": 55,
     "Def": 50,
@@ -1859,13 +1859,13 @@
     "SpDef": 65,
     "Spe": 55,
     "Ability1": "Run away",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 134,
     "Name": "Vaporeon",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 130,
     "Att": 65,
     "Def": 60,
@@ -1873,13 +1873,13 @@
     "SpDef": 95,
     "Spe": 65,
     "Ability1": "Water absorb",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 135,
     "Name": "Jolteon",
     "Type1": "Electric",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 65,
     "Def": 60,
@@ -1887,13 +1887,13 @@
     "SpDef": 95,
     "Spe": 130,
     "Ability1": "Volt absorb",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 136,
     "Name": "Flareon",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 130,
     "Def": 60,
@@ -1901,13 +1901,13 @@
     "SpDef": 110,
     "Spe": 65,
     "Ability1": "Flash fire",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 137,
     "Name": "Porygon",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 60,
     "Def": 70,
@@ -1915,7 +1915,7 @@
     "SpDef": 75,
     "Spe": 40,
     "Ability1": "Trace",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 138,
@@ -1991,7 +1991,7 @@
     "PokedexNumber": 143,
     "Name": "Snorlax",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 160,
     "Att": 110,
     "Def": 65,
@@ -2013,7 +2013,7 @@
     "SpDef": 125,
     "Spe": 85,
     "Ability1": "Pressure",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 145,
@@ -2027,7 +2027,7 @@
     "SpDef": 90,
     "Spe": 100,
     "Ability1": "Pressure",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 146,
@@ -2041,13 +2041,13 @@
     "SpDef": 85,
     "Spe": 90,
     "Ability1": "Pressure",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 147,
     "Name": "Dratini",
     "Type1": "Dragon",
-    "Type2": "",
+    "Type2": "None",
     "HP": 41,
     "Att": 64,
     "Def": 45,
@@ -2055,13 +2055,13 @@
     "SpDef": 50,
     "Spe": 50,
     "Ability1": "Shed skin",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 148,
     "Name": "Dragonair",
     "Type1": "Dragon",
-    "Type2": "",
+    "Type2": "None",
     "HP": 61,
     "Att": 84,
     "Def": 65,
@@ -2069,7 +2069,7 @@
     "SpDef": 70,
     "Spe": 70,
     "Ability1": "Shed skin",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 149,
@@ -2083,13 +2083,13 @@
     "SpDef": 100,
     "Spe": 80,
     "Ability1": "Inner focus",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 150,
     "Name": "Mewtwo",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 106,
     "Att": 110,
     "Def": 90,
@@ -2097,13 +2097,13 @@
     "SpDef": 90,
     "Spe": 130,
     "Ability1": "Pressure",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 151,
     "Name": "Mew",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 100,
     "Att": 100,
     "Def": 100,
@@ -2111,13 +2111,13 @@
     "SpDef": 100,
     "Spe": 100,
     "Ability1": "Synchronize",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 152,
     "Name": "Chikorita",
     "Type1": "Grass",
-    "Type2": "",
+    "Type2": "None",
     "HP": 45,
     "Att": 49,
     "Def": 65,
@@ -2125,13 +2125,13 @@
     "SpDef": 65,
     "Spe": 45,
     "Ability1": "Overgrow",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 153,
     "Name": "Bayleef",
     "Type1": "Grass",
-    "Type2": "",
+    "Type2": "None",
     "HP": 60,
     "Att": 62,
     "Def": 80,
@@ -2139,13 +2139,13 @@
     "SpDef": 80,
     "Spe": 60,
     "Ability1": "Overgrow",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 154,
     "Name": "Meganium",
     "Type1": "Grass",
-    "Type2": "",
+    "Type2": "None",
     "HP": 80,
     "Att": 82,
     "Def": 100,
@@ -2153,13 +2153,13 @@
     "SpDef": 100,
     "Spe": 80,
     "Ability1": "Overgrow",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 155,
     "Name": "Cyndaquil",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 39,
     "Att": 52,
     "Def": 43,
@@ -2167,13 +2167,13 @@
     "SpDef": 50,
     "Spe": 65,
     "Ability1": "Blaze",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 156,
     "Name": "Quilava",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 58,
     "Att": 64,
     "Def": 58,
@@ -2181,13 +2181,13 @@
     "SpDef": 65,
     "Spe": 80,
     "Ability1": "Blaze",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 157,
     "Name": "Typhlosion",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 78,
     "Att": 84,
     "Def": 78,
@@ -2195,13 +2195,13 @@
     "SpDef": 85,
     "Spe": 100,
     "Ability1": "Blaze",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 158,
     "Name": "Totodile",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 65,
     "Def": 64,
@@ -2209,13 +2209,13 @@
     "SpDef": 48,
     "Spe": 43,
     "Ability1": "Torrent",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 159,
     "Name": "Croconaw",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 80,
     "Def": 80,
@@ -2223,13 +2223,13 @@
     "SpDef": 63,
     "Spe": 58,
     "Ability1": "Torrent",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 160,
     "Name": "Feraligatr",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 85,
     "Att": 105,
     "Def": 100,
@@ -2237,13 +2237,13 @@
     "SpDef": 83,
     "Spe": 78,
     "Ability1": "Torrent",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 161,
     "Name": "Sentret",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 35,
     "Att": 46,
     "Def": 34,
@@ -2257,7 +2257,7 @@
     "PokedexNumber": 162,
     "Name": "Furret",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 85,
     "Att": 76,
     "Def": 64,
@@ -2363,7 +2363,7 @@
     "SpDef": 80,
     "Spe": 130,
     "Ability1": "Inner focus",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 170,
@@ -2397,7 +2397,7 @@
     "PokedexNumber": 172,
     "Name": "Pichu",
     "Type1": "Electric",
-    "Type2": "",
+    "Type2": "None",
     "HP": 20,
     "Att": 40,
     "Def": 15,
@@ -2405,13 +2405,13 @@
     "SpDef": 35,
     "Spe": 60,
     "Ability1": "Static",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 173,
     "Name": "Cleffa",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 25,
     "Def": 28,
@@ -2419,13 +2419,13 @@
     "SpDef": 55,
     "Spe": 15,
     "Ability1": "Cute charm",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 174,
     "Name": "Igglybuff",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 90,
     "Att": 30,
     "Def": 15,
@@ -2433,13 +2433,13 @@
     "SpDef": 20,
     "Spe": 15,
     "Ability1": "Cute charm",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 175,
     "Name": "Togepi",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 35,
     "Att": 20,
     "Def": 65,
@@ -2495,7 +2495,7 @@
     "PokedexNumber": 179,
     "Name": "Mareep",
     "Type1": "Electric",
-    "Type2": "",
+    "Type2": "None",
     "HP": 55,
     "Att": 40,
     "Def": 40,
@@ -2503,13 +2503,13 @@
     "SpDef": 45,
     "Spe": 35,
     "Ability1": "Static",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 180,
     "Name": "Flaaffy",
     "Type1": "Electric",
-    "Type2": "",
+    "Type2": "None",
     "HP": 70,
     "Att": 55,
     "Def": 55,
@@ -2517,13 +2517,13 @@
     "SpDef": 60,
     "Spe": 45,
     "Ability1": "Static",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 181,
     "Name": "Ampharos",
     "Type1": "Electric",
-    "Type2": "",
+    "Type2": "None",
     "HP": 90,
     "Att": 75,
     "Def": 85,
@@ -2531,13 +2531,13 @@
     "SpDef": 90,
     "Spe": 55,
     "Ability1": "Static",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 182,
     "Name": "Bellossom",
     "Type1": "Grass",
-    "Type2": "",
+    "Type2": "None",
     "HP": 75,
     "Att": 80,
     "Def": 85,
@@ -2545,13 +2545,13 @@
     "SpDef": 100,
     "Spe": 50,
     "Ability1": "Chlorophyll",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 183,
     "Name": "Marill",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 70,
     "Att": 20,
     "Def": 50,
@@ -2565,7 +2565,7 @@
     "PokedexNumber": 184,
     "Name": "Azumarill",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 100,
     "Att": 50,
     "Def": 80,
@@ -2579,7 +2579,7 @@
     "PokedexNumber": 185,
     "Name": "Sudowoodo",
     "Type1": "Rock",
-    "Type2": "",
+    "Type2": "None",
     "HP": 70,
     "Att": 100,
     "Def": 115,
@@ -2593,7 +2593,7 @@
     "PokedexNumber": 186,
     "Name": "Politoed",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 90,
     "Att": 75,
     "Def": 75,
@@ -2615,7 +2615,7 @@
     "SpDef": 55,
     "Spe": 50,
     "Ability1": "Chlorophyll",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 188,
@@ -2629,7 +2629,7 @@
     "SpDef": 65,
     "Spe": 80,
     "Ability1": "Chlorophyll",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 189,
@@ -2643,13 +2643,13 @@
     "SpDef": 85,
     "Spe": 110,
     "Ability1": "Chlorophyll",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 190,
     "Name": "Aipom",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 55,
     "Att": 70,
     "Def": 55,
@@ -2663,7 +2663,7 @@
     "PokedexNumber": 191,
     "Name": "Sunkern",
     "Type1": "Grass",
-    "Type2": "",
+    "Type2": "None",
     "HP": 30,
     "Att": 30,
     "Def": 30,
@@ -2671,13 +2671,13 @@
     "SpDef": 30,
     "Spe": 30,
     "Ability1": "Chlorophyll",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 192,
     "Name": "Sunflora",
     "Type1": "Grass",
-    "Type2": "",
+    "Type2": "None",
     "HP": 75,
     "Att": 75,
     "Def": 55,
@@ -2685,7 +2685,7 @@
     "SpDef": 85,
     "Spe": 30,
     "Ability1": "Chlorophyll",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 193,
@@ -2733,7 +2733,7 @@
     "PokedexNumber": 196,
     "Name": "Espeon",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 65,
     "Def": 60,
@@ -2741,13 +2741,13 @@
     "SpDef": 95,
     "Spe": 110,
     "Ability1": "Synchronize",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 197,
     "Name": "Umbreon",
     "Type1": "Dark",
-    "Type2": "",
+    "Type2": "None",
     "HP": 95,
     "Att": 65,
     "Def": 110,
@@ -2755,7 +2755,7 @@
     "SpDef": 130,
     "Spe": 65,
     "Ability1": "Synchronize",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 198,
@@ -2769,7 +2769,7 @@
     "SpDef": 42,
     "Spe": 91,
     "Ability1": "Insomnia",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 199,
@@ -2789,7 +2789,7 @@
     "PokedexNumber": 200,
     "Name": "Misdreavus",
     "Type1": "Ghost",
-    "Type2": "",
+    "Type2": "None",
     "HP": 60,
     "Att": 60,
     "Def": 60,
@@ -2797,13 +2797,13 @@
     "SpDef": 85,
     "Spe": 85,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 201,
     "Name": "Unown",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 48,
     "Att": 72,
     "Def": 48,
@@ -2811,13 +2811,13 @@
     "SpDef": 48,
     "Spe": 48,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 202,
     "Name": "Wobbuffet",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 190,
     "Att": 33,
     "Def": 58,
@@ -2825,7 +2825,7 @@
     "SpDef": 58,
     "Spe": 33,
     "Ability1": "Shadow tag",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 203,
@@ -2845,7 +2845,7 @@
     "PokedexNumber": 204,
     "Name": "Pineco",
     "Type1": "Bug",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 65,
     "Def": 90,
@@ -2853,7 +2853,7 @@
     "SpDef": 35,
     "Spe": 15,
     "Ability1": "Sturdy",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 205,
@@ -2867,13 +2867,13 @@
     "SpDef": 60,
     "Spe": 40,
     "Ability1": "Sturdy",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 206,
     "Name": "Dunsparce",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 100,
     "Att": 70,
     "Def": 70,
@@ -2915,7 +2915,7 @@
     "PokedexNumber": 209,
     "Name": "Snubbull",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 60,
     "Att": 80,
     "Def": 50,
@@ -2929,7 +2929,7 @@
     "PokedexNumber": 210,
     "Name": "Granbull",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 90,
     "Att": 120,
     "Def": 75,
@@ -2937,7 +2937,7 @@
     "SpDef": 60,
     "Spe": 45,
     "Ability1": "Intimidate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 211,
@@ -2965,7 +2965,7 @@
     "SpDef": 80,
     "Spe": 65,
     "Ability1": "Swarm",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 213,
@@ -2979,7 +2979,7 @@
     "SpDef": 230,
     "Spe": 5,
     "Ability1": "Sturdy",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 214,
@@ -3013,7 +3013,7 @@
     "PokedexNumber": 216,
     "Name": "Teddiursa",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 60,
     "Att": 80,
     "Def": 50,
@@ -3021,13 +3021,13 @@
     "SpDef": 50,
     "Spe": 40,
     "Ability1": "Pickup",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 217,
     "Name": "Ursaring",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 90,
     "Att": 130,
     "Def": 75,
@@ -3035,13 +3035,13 @@
     "SpDef": 75,
     "Spe": 55,
     "Ability1": "Guts",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 218,
     "Name": "Slugma",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 40,
     "Att": 40,
     "Def": 40,
@@ -3077,7 +3077,7 @@
     "SpDef": 30,
     "Spe": 50,
     "Ability1": "Oblivious",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 221,
@@ -3091,7 +3091,7 @@
     "SpDef": 60,
     "Spe": 50,
     "Ability1": "Oblivious",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 222,
@@ -3111,7 +3111,7 @@
     "PokedexNumber": 223,
     "Name": "Remoraid",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 35,
     "Att": 65,
     "Def": 35,
@@ -3119,13 +3119,13 @@
     "SpDef": 35,
     "Spe": 65,
     "Ability1": "Hustle",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 224,
     "Name": "Octillery",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 75,
     "Att": 105,
     "Def": 75,
@@ -3133,7 +3133,7 @@
     "SpDef": 75,
     "Spe": 45,
     "Ability1": "Suction cups",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 225,
@@ -3217,13 +3217,13 @@
     "SpDef": 95,
     "Spe": 85,
     "Ability1": "Swift swim",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 231,
     "Name": "Phanpy",
     "Type1": "Ground",
-    "Type2": "",
+    "Type2": "None",
     "HP": 90,
     "Att": 60,
     "Def": 60,
@@ -3231,13 +3231,13 @@
     "SpDef": 40,
     "Spe": 40,
     "Ability1": "Pickup",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 232,
     "Name": "Donphan",
     "Type1": "Ground",
-    "Type2": "",
+    "Type2": "None",
     "HP": 90,
     "Att": 120,
     "Def": 120,
@@ -3245,13 +3245,13 @@
     "SpDef": 60,
     "Spe": 50,
     "Ability1": "Sturdy",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 233,
     "Name": "Porygon2",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 85,
     "Att": 80,
     "Def": 90,
@@ -3259,13 +3259,13 @@
     "SpDef": 95,
     "Spe": 60,
     "Ability1": "Trace",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 234,
     "Name": "Stantler",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 73,
     "Att": 95,
     "Def": 62,
@@ -3273,13 +3273,13 @@
     "SpDef": 65,
     "Spe": 85,
     "Ability1": "Intimidate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 235,
     "Name": "Smeargle",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 55,
     "Att": 20,
     "Def": 35,
@@ -3287,13 +3287,13 @@
     "SpDef": 45,
     "Spe": 75,
     "Ability1": "Own tempo",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 236,
     "Name": "Tyrogue",
     "Type1": "Fighting",
-    "Type2": "",
+    "Type2": "None",
     "HP": 35,
     "Att": 35,
     "Def": 35,
@@ -3301,13 +3301,13 @@
     "SpDef": 35,
     "Spe": 35,
     "Ability1": "Guts",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 237,
     "Name": "Hitmontop",
     "Type1": "Fighting",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 95,
     "Def": 95,
@@ -3315,7 +3315,7 @@
     "SpDef": 110,
     "Spe": 70,
     "Ability1": "Intimidate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 238,
@@ -3329,13 +3329,13 @@
     "SpDef": 65,
     "Spe": 65,
     "Ability1": "Oblivious",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 239,
     "Name": "Elekid",
     "Type1": "Electric",
-    "Type2": "",
+    "Type2": "None",
     "HP": 45,
     "Att": 63,
     "Def": 37,
@@ -3343,13 +3343,13 @@
     "SpDef": 55,
     "Spe": 95,
     "Ability1": "Static",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 240,
     "Name": "Magby",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 45,
     "Att": 75,
     "Def": 37,
@@ -3357,13 +3357,13 @@
     "SpDef": 55,
     "Spe": 83,
     "Ability1": "Flame body",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 241,
     "Name": "Miltank",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 95,
     "Att": 80,
     "Def": 105,
@@ -3371,13 +3371,13 @@
     "SpDef": 70,
     "Spe": 100,
     "Ability1": "Thick fat",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 242,
     "Name": "Blissey",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 255,
     "Att": 10,
     "Def": 10,
@@ -3391,7 +3391,7 @@
     "PokedexNumber": 243,
     "Name": "Raikou",
     "Type1": "Electric",
-    "Type2": "",
+    "Type2": "None",
     "HP": 90,
     "Att": 85,
     "Def": 75,
@@ -3399,13 +3399,13 @@
     "SpDef": 100,
     "Spe": 115,
     "Ability1": "Pressure",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 244,
     "Name": "Entei",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 115,
     "Att": 115,
     "Def": 85,
@@ -3413,13 +3413,13 @@
     "SpDef": 75,
     "Spe": 100,
     "Ability1": "Pressure",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 245,
     "Name": "Suicune",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 100,
     "Att": 75,
     "Def": 115,
@@ -3427,7 +3427,7 @@
     "SpDef": 115,
     "Spe": 85,
     "Ability1": "Pressure",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 246,
@@ -3441,7 +3441,7 @@
     "SpDef": 50,
     "Spe": 41,
     "Ability1": "Guts",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 247,
@@ -3455,7 +3455,7 @@
     "SpDef": 70,
     "Spe": 51,
     "Ability1": "Shed skin",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 248,
@@ -3469,7 +3469,7 @@
     "SpDef": 100,
     "Spe": 61,
     "Ability1": "Sand stream",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 249,
@@ -3483,7 +3483,7 @@
     "SpDef": 154,
     "Spe": 110,
     "Ability1": "Pressure",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 250,
@@ -3497,7 +3497,7 @@
     "SpDef": 154,
     "Spe": 90,
     "Ability1": "Pressure",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 251,
@@ -3511,13 +3511,13 @@
     "SpDef": 100,
     "Spe": 100,
     "Ability1": "Natural cure",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 252,
     "Name": "Treecko",
     "Type1": "Grass",
-    "Type2": "",
+    "Type2": "None",
     "HP": 40,
     "Att": 45,
     "Def": 35,
@@ -3525,13 +3525,13 @@
     "SpDef": 55,
     "Spe": 70,
     "Ability1": "Overgrow",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 253,
     "Name": "Grovyle",
     "Type1": "Grass",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 65,
     "Def": 45,
@@ -3539,13 +3539,13 @@
     "SpDef": 65,
     "Spe": 95,
     "Ability1": "Overgrow",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 254,
     "Name": "Sceptile",
     "Type1": "Grass",
-    "Type2": "",
+    "Type2": "None",
     "HP": 70,
     "Att": 85,
     "Def": 65,
@@ -3553,13 +3553,13 @@
     "SpDef": 85,
     "Spe": 120,
     "Ability1": "Overgrow",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 255,
     "Name": "Torchic",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 45,
     "Att": 60,
     "Def": 40,
@@ -3567,7 +3567,7 @@
     "SpDef": 50,
     "Spe": 45,
     "Ability1": "Blaze",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 256,
@@ -3581,7 +3581,7 @@
     "SpDef": 60,
     "Spe": 55,
     "Ability1": "Blaze",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 257,
@@ -3595,13 +3595,13 @@
     "SpDef": 70,
     "Spe": 80,
     "Ability1": "Blaze",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 258,
     "Name": "Mudkip",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 70,
     "Def": 50,
@@ -3609,7 +3609,7 @@
     "SpDef": 50,
     "Spe": 40,
     "Ability1": "Torrent",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 259,
@@ -3623,7 +3623,7 @@
     "SpDef": 70,
     "Spe": 50,
     "Ability1": "Torrent",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 260,
@@ -3637,13 +3637,13 @@
     "SpDef": 90,
     "Spe": 60,
     "Ability1": "Torrent",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 261,
     "Name": "Poochyena",
     "Type1": "Dark",
-    "Type2": "",
+    "Type2": "None",
     "HP": 35,
     "Att": 55,
     "Def": 35,
@@ -3651,13 +3651,13 @@
     "SpDef": 30,
     "Spe": 35,
     "Ability1": "Run away",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 262,
     "Name": "Mightyena",
     "Type1": "Dark",
-    "Type2": "",
+    "Type2": "None",
     "HP": 70,
     "Att": 90,
     "Def": 70,
@@ -3665,13 +3665,13 @@
     "SpDef": 60,
     "Spe": 70,
     "Ability1": "Intimidate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 263,
     "Name": "Zigzagoon",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 38,
     "Att": 30,
     "Def": 41,
@@ -3679,13 +3679,13 @@
     "SpDef": 41,
     "Spe": 60,
     "Ability1": "Pickup",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 264,
     "Name": "Linoone",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 78,
     "Att": 70,
     "Def": 61,
@@ -3693,13 +3693,13 @@
     "SpDef": 61,
     "Spe": 100,
     "Ability1": "Pickup",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 265,
     "Name": "Wurmple",
     "Type1": "Bug",
-    "Type2": "",
+    "Type2": "None",
     "HP": 45,
     "Att": 45,
     "Def": 35,
@@ -3707,13 +3707,13 @@
     "SpDef": 30,
     "Spe": 20,
     "Ability1": "Shield dust",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 266,
     "Name": "Silcoon",
     "Type1": "Bug",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 35,
     "Def": 55,
@@ -3721,7 +3721,7 @@
     "SpDef": 25,
     "Spe": 15,
     "Ability1": "Shed skin",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 267,
@@ -3735,13 +3735,13 @@
     "SpDef": 50,
     "Spe": 65,
     "Ability1": "Swarm",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 268,
     "Name": "Cascoon",
     "Type1": "Bug",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 35,
     "Def": 55,
@@ -3749,7 +3749,7 @@
     "SpDef": 25,
     "Spe": 15,
     "Ability1": "Shed skin",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 269,
@@ -3763,7 +3763,7 @@
     "SpDef": 90,
     "Spe": 65,
     "Ability1": "Shield dust",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 270,
@@ -3811,7 +3811,7 @@
     "PokedexNumber": 273,
     "Name": "Seedot",
     "Type1": "Grass",
-    "Type2": "",
+    "Type2": "None",
     "HP": 40,
     "Att": 40,
     "Def": 50,
@@ -3861,7 +3861,7 @@
     "SpDef": 30,
     "Spe": 85,
     "Ability1": "Guts",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 277,
@@ -3875,7 +3875,7 @@
     "SpDef": 50,
     "Spe": 125,
     "Ability1": "Guts",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 278,
@@ -3889,7 +3889,7 @@
     "SpDef": 30,
     "Spe": 85,
     "Ability1": "Keen eye",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 279,
@@ -3903,13 +3903,13 @@
     "SpDef": 70,
     "Spe": 65,
     "Ability1": "Keen eye",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 280,
     "Name": "Ralts",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 28,
     "Att": 25,
     "Def": 25,
@@ -3923,7 +3923,7 @@
     "PokedexNumber": 281,
     "Name": "Kirlia",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 38,
     "Att": 35,
     "Def": 35,
@@ -3937,7 +3937,7 @@
     "PokedexNumber": 282,
     "Name": "Gardevoir",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 68,
     "Att": 65,
     "Def": 65,
@@ -3959,7 +3959,7 @@
     "SpDef": 52,
     "Spe": 65,
     "Ability1": "Swift swim",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 284,
@@ -3973,13 +3973,13 @@
     "SpDef": 82,
     "Spe": 80,
     "Ability1": "Intimidate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 285,
     "Name": "Shroomish",
     "Type1": "Grass",
-    "Type2": "",
+    "Type2": "None",
     "HP": 60,
     "Att": 40,
     "Def": 60,
@@ -3987,7 +3987,7 @@
     "SpDef": 60,
     "Spe": 35,
     "Ability1": "Effect spore",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 286,
@@ -4001,13 +4001,13 @@
     "SpDef": 60,
     "Spe": 70,
     "Ability1": "Effect spore",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 287,
     "Name": "Slakoth",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 60,
     "Att": 60,
     "Def": 60,
@@ -4015,13 +4015,13 @@
     "SpDef": 35,
     "Spe": 30,
     "Ability1": "Truant",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 288,
     "Name": "Vigoroth",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 80,
     "Att": 80,
     "Def": 80,
@@ -4029,13 +4029,13 @@
     "SpDef": 55,
     "Spe": 90,
     "Ability1": "Vital spirit",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 289,
     "Name": "Slaking",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 150,
     "Att": 160,
     "Def": 100,
@@ -4043,7 +4043,7 @@
     "SpDef": 65,
     "Spe": 100,
     "Ability1": "Truant",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 290,
@@ -4057,7 +4057,7 @@
     "SpDef": 30,
     "Spe": 40,
     "Ability1": "Compoundeyes",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 291,
@@ -4071,7 +4071,7 @@
     "SpDef": 50,
     "Spe": 160,
     "Ability1": "Speed boost",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 292,
@@ -4085,13 +4085,13 @@
     "SpDef": 30,
     "Spe": 40,
     "Ability1": "Wonder guard",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 293,
     "Name": "Whismur",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 64,
     "Att": 51,
     "Def": 23,
@@ -4099,13 +4099,13 @@
     "SpDef": 23,
     "Spe": 28,
     "Ability1": "Soundproof",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 294,
     "Name": "Loudred",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 84,
     "Att": 71,
     "Def": 43,
@@ -4113,13 +4113,13 @@
     "SpDef": 43,
     "Spe": 48,
     "Ability1": "Soundproof",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 295,
     "Name": "Exploud",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 104,
     "Att": 91,
     "Def": 63,
@@ -4127,13 +4127,13 @@
     "SpDef": 73,
     "Spe": 68,
     "Ability1": "Soundproof",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 296,
     "Name": "Makuhita",
     "Type1": "Fighting",
-    "Type2": "",
+    "Type2": "None",
     "HP": 72,
     "Att": 60,
     "Def": 30,
@@ -4147,7 +4147,7 @@
     "PokedexNumber": 297,
     "Name": "Hariyama",
     "Type1": "Fighting",
-    "Type2": "",
+    "Type2": "None",
     "HP": 144,
     "Att": 120,
     "Def": 60,
@@ -4161,7 +4161,7 @@
     "PokedexNumber": 298,
     "Name": "Azurill",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 20,
     "Def": 40,
@@ -4175,7 +4175,7 @@
     "PokedexNumber": 299,
     "Name": "Nosepass",
     "Type1": "Rock",
-    "Type2": "",
+    "Type2": "None",
     "HP": 30,
     "Att": 45,
     "Def": 135,
@@ -4189,7 +4189,7 @@
     "PokedexNumber": 300,
     "Name": "Skitty",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 45,
     "Def": 45,
@@ -4197,13 +4197,13 @@
     "SpDef": 35,
     "Spe": 50,
     "Ability1": "Cute charm",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 301,
     "Name": "Delcatty",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 70,
     "Att": 65,
     "Def": 65,
@@ -4211,7 +4211,7 @@
     "SpDef": 55,
     "Spe": 90,
     "Ability1": "Cute charm",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 302,
@@ -4225,13 +4225,13 @@
     "SpDef": 65,
     "Spe": 50,
     "Ability1": "Keen eye",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 303,
     "Name": "Mawile",
     "Type1": "Steel",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 85,
     "Def": 85,
@@ -4295,7 +4295,7 @@
     "SpDef": 55,
     "Spe": 60,
     "Ability1": "Pure power",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 308,
@@ -4309,13 +4309,13 @@
     "SpDef": 75,
     "Spe": 80,
     "Ability1": "Pure power",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 309,
     "Name": "Electrike",
     "Type1": "Electric",
-    "Type2": "",
+    "Type2": "None",
     "HP": 40,
     "Att": 45,
     "Def": 40,
@@ -4329,7 +4329,7 @@
     "PokedexNumber": 310,
     "Name": "Manectric",
     "Type1": "Electric",
-    "Type2": "",
+    "Type2": "None",
     "HP": 70,
     "Att": 75,
     "Def": 60,
@@ -4343,7 +4343,7 @@
     "PokedexNumber": 311,
     "Name": "Plusle",
     "Type1": "Electric",
-    "Type2": "",
+    "Type2": "None",
     "HP": 60,
     "Att": 50,
     "Def": 40,
@@ -4351,13 +4351,13 @@
     "SpDef": 75,
     "Spe": 95,
     "Ability1": "Plus",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 312,
     "Name": "Minun",
     "Type1": "Electric",
-    "Type2": "",
+    "Type2": "None",
     "HP": 60,
     "Att": 40,
     "Def": 50,
@@ -4365,13 +4365,13 @@
     "SpDef": 85,
     "Spe": 95,
     "Ability1": "Minus",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 313,
     "Name": "Volbeat",
     "Type1": "Bug",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 73,
     "Def": 75,
@@ -4385,7 +4385,7 @@
     "PokedexNumber": 314,
     "Name": "Illumise",
     "Type1": "Bug",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 47,
     "Def": 75,
@@ -4393,7 +4393,7 @@
     "SpDef": 85,
     "Spe": 85,
     "Ability1": "Oblivious",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 315,
@@ -4413,7 +4413,7 @@
     "PokedexNumber": 316,
     "Name": "Gulpin",
     "Type1": "Poison",
-    "Type2": "",
+    "Type2": "None",
     "HP": 70,
     "Att": 43,
     "Def": 53,
@@ -4427,7 +4427,7 @@
     "PokedexNumber": 317,
     "Name": "Swalot",
     "Type1": "Poison",
-    "Type2": "",
+    "Type2": "None",
     "HP": 100,
     "Att": 73,
     "Def": 83,
@@ -4449,7 +4449,7 @@
     "SpDef": 20,
     "Spe": 65,
     "Ability1": "Rough skin",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 319,
@@ -4463,13 +4463,13 @@
     "SpDef": 40,
     "Spe": 95,
     "Ability1": "Rough skin",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 320,
     "Name": "Wailmer",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 130,
     "Att": 70,
     "Def": 35,
@@ -4483,7 +4483,7 @@
     "PokedexNumber": 321,
     "Name": "Wailord",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 170,
     "Att": 90,
     "Def": 45,
@@ -4505,7 +4505,7 @@
     "SpDef": 45,
     "Spe": 35,
     "Ability1": "Oblivious",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 323,
@@ -4519,13 +4519,13 @@
     "SpDef": 75,
     "Spe": 40,
     "Ability1": "Magma armor",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 324,
     "Name": "Torkoal",
     "Type1": "Fire",
-    "Type2": "",
+    "Type2": "None",
     "HP": 70,
     "Att": 85,
     "Def": 140,
@@ -4533,13 +4533,13 @@
     "SpDef": 70,
     "Spe": 20,
     "Ability1": "White smoke",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 325,
     "Name": "Spoink",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 60,
     "Att": 25,
     "Def": 35,
@@ -4553,7 +4553,7 @@
     "PokedexNumber": 326,
     "Name": "Grumpig",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 80,
     "Att": 45,
     "Def": 65,
@@ -4567,7 +4567,7 @@
     "PokedexNumber": 327,
     "Name": "Spinda",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 60,
     "Att": 60,
     "Def": 60,
@@ -4575,13 +4575,13 @@
     "SpDef": 60,
     "Spe": 60,
     "Ability1": "Own tempo",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 328,
     "Name": "Trapinch",
     "Type1": "Ground",
-    "Type2": "",
+    "Type2": "None",
     "HP": 45,
     "Att": 100,
     "Def": 45,
@@ -4603,7 +4603,7 @@
     "SpDef": 50,
     "Spe": 70,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 330,
@@ -4617,13 +4617,13 @@
     "SpDef": 80,
     "Spe": 100,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 331,
     "Name": "Cacnea",
     "Type1": "Grass",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 85,
     "Def": 40,
@@ -4631,7 +4631,7 @@
     "SpDef": 40,
     "Spe": 35,
     "Ability1": "Sand veil",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 332,
@@ -4645,7 +4645,7 @@
     "SpDef": 60,
     "Spe": 55,
     "Ability1": "Sand veil",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 333,
@@ -4659,7 +4659,7 @@
     "SpDef": 75,
     "Spe": 50,
     "Ability1": "Natural cure",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 334,
@@ -4673,13 +4673,13 @@
     "SpDef": 105,
     "Spe": 80,
     "Ability1": "Natural cure",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 335,
     "Name": "Zangoose",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 73,
     "Att": 115,
     "Def": 60,
@@ -4687,13 +4687,13 @@
     "SpDef": 60,
     "Spe": 90,
     "Ability1": "Immunity",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 336,
     "Name": "Seviper",
     "Type1": "Poison",
-    "Type2": "",
+    "Type2": "None",
     "HP": 73,
     "Att": 100,
     "Def": 60,
@@ -4701,7 +4701,7 @@
     "SpDef": 60,
     "Spe": 65,
     "Ability1": "Shed skin",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 337,
@@ -4715,7 +4715,7 @@
     "SpDef": 85,
     "Spe": 70,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 338,
@@ -4729,7 +4729,7 @@
     "SpDef": 65,
     "Spe": 70,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 339,
@@ -4743,7 +4743,7 @@
     "SpDef": 41,
     "Spe": 60,
     "Ability1": "Oblivious",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 340,
@@ -4757,13 +4757,13 @@
     "SpDef": 71,
     "Spe": 60,
     "Ability1": "Oblivious",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 341,
     "Name": "Corphish",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 43,
     "Att": 80,
     "Def": 65,
@@ -4799,7 +4799,7 @@
     "SpDef": 70,
     "Spe": 55,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 344,
@@ -4813,7 +4813,7 @@
     "SpDef": 120,
     "Spe": 75,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 345,
@@ -4827,7 +4827,7 @@
     "SpDef": 87,
     "Spe": 23,
     "Ability1": "Suction cups",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 346,
@@ -4841,7 +4841,7 @@
     "SpDef": 107,
     "Spe": 43,
     "Ability1": "Suction cups",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 347,
@@ -4855,7 +4855,7 @@
     "SpDef": 50,
     "Spe": 75,
     "Ability1": "Battle armor",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 348,
@@ -4869,13 +4869,13 @@
     "SpDef": 80,
     "Spe": 45,
     "Ability1": "Battle armor",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 349,
     "Name": "Feebas",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 20,
     "Att": 15,
     "Def": 20,
@@ -4883,13 +4883,13 @@
     "SpDef": 55,
     "Spe": 80,
     "Ability1": "Swift swim",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 350,
     "Name": "Milotic",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 95,
     "Att": 60,
     "Def": 79,
@@ -4897,13 +4897,13 @@
     "SpDef": 125,
     "Spe": 81,
     "Ability1": "Marvel scale",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 351,
     "Name": "Castform",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 70,
     "Att": 70,
     "Def": 70,
@@ -4911,13 +4911,13 @@
     "SpDef": 70,
     "Spe": 70,
     "Ability1": "Forecast",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 352,
     "Name": "Kecleon",
     "Type1": "Normal",
-    "Type2": "",
+    "Type2": "None",
     "HP": 60,
     "Att": 90,
     "Def": 70,
@@ -4925,13 +4925,13 @@
     "SpDef": 120,
     "Spe": 40,
     "Ability1": "Color change",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 353,
     "Name": "Shuppet",
     "Type1": "Ghost",
-    "Type2": "",
+    "Type2": "None",
     "HP": 44,
     "Att": 75,
     "Def": 35,
@@ -4939,13 +4939,13 @@
     "SpDef": 33,
     "Spe": 45,
     "Ability1": "Insomnia",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 354,
     "Name": "Banette",
     "Type1": "Ghost",
-    "Type2": "",
+    "Type2": "None",
     "HP": 64,
     "Att": 115,
     "Def": 65,
@@ -4953,13 +4953,13 @@
     "SpDef": 63,
     "Spe": 65,
     "Ability1": "Insomnia",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 355,
     "Name": "Duskull",
     "Type1": "Ghost",
-    "Type2": "",
+    "Type2": "None",
     "HP": 20,
     "Att": 40,
     "Def": 90,
@@ -4967,13 +4967,13 @@
     "SpDef": 90,
     "Spe": 25,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 356,
     "Name": "Dusclops",
     "Type1": "Ghost",
-    "Type2": "",
+    "Type2": "None",
     "HP": 40,
     "Att": 70,
     "Def": 130,
@@ -4981,7 +4981,7 @@
     "SpDef": 130,
     "Spe": 25,
     "Ability1": "Pressure",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 357,
@@ -4995,13 +4995,13 @@
     "SpDef": 87,
     "Spe": 51,
     "Ability1": "Chlorophyll",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 358,
     "Name": "Chimecho",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 75,
     "Att": 50,
     "Def": 80,
@@ -5009,13 +5009,13 @@
     "SpDef": 90,
     "Spe": 65,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 359,
     "Name": "Absol",
     "Type1": "Dark",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 130,
     "Def": 60,
@@ -5023,13 +5023,13 @@
     "SpDef": 60,
     "Spe": 75,
     "Ability1": "Pressure",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 360,
     "Name": "Wynaut",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 95,
     "Att": 23,
     "Def": 48,
@@ -5037,13 +5037,13 @@
     "SpDef": 48,
     "Spe": 23,
     "Ability1": "Shadow tag",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 361,
     "Name": "Snorunt",
     "Type1": "Ice",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 50,
     "Def": 50,
@@ -5051,13 +5051,13 @@
     "SpDef": 50,
     "Spe": 50,
     "Ability1": "Inner focus",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 362,
     "Name": "Glalie",
     "Type1": "Ice",
-    "Type2": "",
+    "Type2": "None",
     "HP": 80,
     "Att": 80,
     "Def": 80,
@@ -5065,7 +5065,7 @@
     "SpDef": 80,
     "Spe": 80,
     "Ability1": "Inner focus",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 363,
@@ -5079,7 +5079,7 @@
     "SpDef": 50,
     "Spe": 25,
     "Ability1": "Thick fat",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 364,
@@ -5093,7 +5093,7 @@
     "SpDef": 70,
     "Spe": 45,
     "Ability1": "Thick fat",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 365,
@@ -5107,13 +5107,13 @@
     "SpDef": 90,
     "Spe": 65,
     "Ability1": "Thick fat",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 366,
     "Name": "Clamperl",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 35,
     "Att": 64,
     "Def": 85,
@@ -5121,13 +5121,13 @@
     "SpDef": 55,
     "Spe": 32,
     "Ability1": "Shell armor",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 367,
     "Name": "Huntail",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 55,
     "Att": 104,
     "Def": 105,
@@ -5135,13 +5135,13 @@
     "SpDef": 75,
     "Spe": 52,
     "Ability1": "Swift swim",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 368,
     "Name": "Gorebyss",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 55,
     "Att": 84,
     "Def": 105,
@@ -5149,7 +5149,7 @@
     "SpDef": 75,
     "Spe": 52,
     "Ability1": "Swift swim",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 369,
@@ -5169,7 +5169,7 @@
     "PokedexNumber": 370,
     "Name": "Luvdisc",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 43,
     "Att": 30,
     "Def": 55,
@@ -5177,13 +5177,13 @@
     "SpDef": 65,
     "Spe": 97,
     "Ability1": "Swift swim",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 371,
     "Name": "Bagon",
     "Type1": "Dragon",
-    "Type2": "",
+    "Type2": "None",
     "HP": 45,
     "Att": 75,
     "Def": 60,
@@ -5191,13 +5191,13 @@
     "SpDef": 30,
     "Spe": 50,
     "Ability1": "Rock head",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 372,
     "Name": "Shelgon",
     "Type1": "Dragon",
-    "Type2": "",
+    "Type2": "None",
     "HP": 65,
     "Att": 95,
     "Def": 100,
@@ -5205,7 +5205,7 @@
     "SpDef": 50,
     "Spe": 50,
     "Ability1": "Rock head",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 373,
@@ -5219,7 +5219,7 @@
     "SpDef": 80,
     "Spe": 100,
     "Ability1": "Intimidate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 374,
@@ -5233,7 +5233,7 @@
     "SpDef": 60,
     "Spe": 30,
     "Ability1": "Clear body",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 375,
@@ -5247,7 +5247,7 @@
     "SpDef": 80,
     "Spe": 50,
     "Ability1": "Clear body",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 376,
@@ -5261,13 +5261,13 @@
     "SpDef": 90,
     "Spe": 70,
     "Ability1": "Clear body",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 377,
     "Name": "Regirock",
     "Type1": "Rock",
-    "Type2": "",
+    "Type2": "None",
     "HP": 80,
     "Att": 100,
     "Def": 200,
@@ -5275,13 +5275,13 @@
     "SpDef": 100,
     "Spe": 50,
     "Ability1": "Clear body",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 378,
     "Name": "Regice",
     "Type1": "Ice",
-    "Type2": "",
+    "Type2": "None",
     "HP": 80,
     "Att": 50,
     "Def": 100,
@@ -5289,13 +5289,13 @@
     "SpDef": 200,
     "Spe": 50,
     "Ability1": "Clear body",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 379,
     "Name": "Registeel",
     "Type1": "Steel",
-    "Type2": "",
+    "Type2": "None",
     "HP": 80,
     "Att": 75,
     "Def": 150,
@@ -5303,7 +5303,7 @@
     "SpDef": 150,
     "Spe": 50,
     "Ability1": "Clear body",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 380,
@@ -5317,7 +5317,7 @@
     "SpDef": 130,
     "Spe": 110,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 381,
@@ -5331,13 +5331,13 @@
     "SpDef": 110,
     "Spe": 110,
     "Ability1": "Levitate",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 382,
     "Name": "Kyogre",
     "Type1": "Water",
-    "Type2": "",
+    "Type2": "None",
     "HP": 100,
     "Att": 100,
     "Def": 90,
@@ -5345,13 +5345,13 @@
     "SpDef": 140,
     "Spe": 90,
     "Ability1": "Drizzle",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 383,
     "Name": "Groudon",
     "Type1": "Ground",
-    "Type2": "",
+    "Type2": "None",
     "HP": 100,
     "Att": 150,
     "Def": 140,
@@ -5359,7 +5359,7 @@
     "SpDef": 90,
     "Spe": 90,
     "Ability1": "Drought",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 384,
@@ -5373,7 +5373,7 @@
     "SpDef": 90,
     "Spe": 95,
     "Ability1": "Air lock",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 385,
@@ -5387,13 +5387,13 @@
     "SpDef": 100,
     "Spe": 100,
     "Ability1": "Serene grace",
-    "Ability2": ""
+    "Ability2": "None"
   },
   {
     "PokedexNumber": 386,
     "Name": "Deoxys",
     "Type1": "Psychic",
-    "Type2": "",
+    "Type2": "None",
     "HP": 50,
     "Att": 150,
     "Def": 50,
@@ -5401,6 +5401,6 @@
     "SpDef": 50,
     "Spe": 150,
     "Ability1": "Pressure",
-    "Ability2": ""
+    "Ability2": "None"
   }
 ]
