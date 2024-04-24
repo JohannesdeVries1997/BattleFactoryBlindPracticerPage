@@ -1,0 +1,420 @@
+/* /Pages/PracticePageComponent.razor.rz.scp.css */
+body[b-5ffyvq68vb] {
+}
+
+.title-container[b-5ffyvq68vb]{
+    grid-column: span 3;
+    grid-row: span 1;
+    margin-top: 2%;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+.round_selector-container[b-5ffyvq68vb] {
+    grid-column: span 3;
+    grid-row: span 1;
+}
+
+.guesser-container[b-5ffyvq68vb] {
+    grid-column: span 3;
+    grid-row: span 3;
+    margin-top: auto;
+    margin-bottom: 0;
+}
+
+.movelist-component-container[b-5ffyvq68vb] {
+    grid-column: span 3;
+    grid-row: span 3;
+    margin-top: auto;
+    margin-bottom: 0;
+}
+
+.next-container[b-5ffyvq68vb] {
+    grid-column: span 6;
+    grid-row: span 1;
+    margin-top: 0;
+    margin-bottom: auto;
+}
+
+.practice-container[b-5ffyvq68vb] {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(6, 1fr);
+    grid-auto-rows: 100px;
+}
+
+@media(max-width: 942px){
+    .practice-container[b-5ffyvq68vb]{
+        display: block;
+    }
+}
+
+.practice-container > div[b-5ffyvq68vb]{
+    align-content: end;
+}
+
+#next-button[b-5ffyvq68vb] {
+    box-sizing: border-box;
+    color: white;
+    background-color: #115217;
+    border-radius: 10%;
+}
+
+    #next-button:hover[b-5ffyvq68vb] {
+        color: #115217;
+        background-color: white;
+    }
+/* /Shared/CryButton.razor.rz.scp.css */
+body[b-4o7f1ry0nb] {
+}
+
+.crybutton-container[b-4o7f1ry0nb]{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#speakerImg[b-4o7f1ry0nb] {
+    width: 30px;
+    height: 30px;
+}
+/* /Shared/GuessComponent.razor.rz.scp.css */
+.inputs-container[b-pxeybiufab]{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.guess-input[b-pxeybiufab]{
+    display: block;
+    width: 100%;
+    height: 40px;
+}
+
+.InputBox[b-pxeybiufab] {
+    width: 100%;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/* /Shared/MainLayout.razor.rz.scp.css */
+.page[b-1l5wfv3lhq] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-1l5wfv3lhq] {
+    flex: 1;
+}
+
+.sidebar[b-1l5wfv3lhq] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-1l5wfv3lhq] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-1l5wfv3lhq]  a, .top-row[b-1l5wfv3lhq]  .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+    }
+
+    .top-row[b-1l5wfv3lhq]  a:hover, .top-row[b-1l5wfv3lhq]  .btn-link:hover {
+        text-decoration: underline;
+    }
+
+    .top-row[b-1l5wfv3lhq]  a:first-child {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-1l5wfv3lhq] {
+        display: none;
+    }
+
+    .top-row.auth[b-1l5wfv3lhq] {
+        justify-content: space-between;
+    }
+
+    .top-row[b-1l5wfv3lhq]  a, .top-row[b-1l5wfv3lhq]  .btn-link {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-1l5wfv3lhq] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-1l5wfv3lhq] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-1l5wfv3lhq] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row.auth[b-1l5wfv3lhq]  a:first-child {
+        flex: 1;
+        text-align: right;
+        width: 0;
+    }
+
+    .top-row[b-1l5wfv3lhq], article[b-1l5wfv3lhq] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* /Shared/MoveListComponent.razor.rz.scp.css */
+.movelist-component[b-j5y3eqdyxj]{
+    display: block;
+}
+
+.movelist-container[b-j5y3eqdyxj]{
+    display: block;
+}
+
+.move-header[b-j5y3eqdyxj]{
+    text-align: center;
+}
+
+.guess-component-container[b-j5y3eqdyxj]{
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.confirm-button-container[b-j5y3eqdyxj]{
+    margin-left:0;
+    margin-right: auto;
+}
+
+.confirm-button[b-j5y3eqdyxj] {
+    background-color: #81a4f7;
+    color: black;
+    border-radius: 10%;
+}
+
+.confirm-button:hover[b-j5y3eqdyxj]{
+    background-color: white;
+    color: black;
+}
+/* /Shared/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-sry6olmrq4] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-sry6olmrq4] {
+    height: 3.5rem;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.navbar-brand[b-sry6olmrq4] {
+    font-size: 0.9rem;
+}
+
+.oi[b-sry6olmrq4] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-sry6olmrq4] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+    .nav-item:first-of-type[b-sry6olmrq4] {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type[b-sry6olmrq4] {
+        padding-bottom: 1rem;
+    }
+
+    .nav-item[b-sry6olmrq4]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+.nav-item[b-sry6olmrq4]  a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+}
+
+.nav-item[b-sry6olmrq4]  a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-sry6olmrq4] {
+        display: none;
+    }
+
+    .collapse[b-sry6olmrq4] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}
+/* /Shared/PokemonGuesserComponent.razor.rz.scp.css */
+body[b-m5mn53a8gp] {
+}
+.guesser-component-container[b-m5mn53a8gp]{
+    display:block;
+    gap: 5px;
+}
+
+.pokemons-info-container[b-m5mn53a8gp]{
+    display:flex;
+    justify-content: space-around;
+}
+
+.pokemon-info[b-m5mn53a8gp]{
+    margin: 0px 5px;
+}
+
+.types[b-m5mn53a8gp] {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    gap: 10px;
+}
+
+.sprite[b-m5mn53a8gp] {
+    height: fit-content;
+}
+
+.cryButton[b-m5mn53a8gp] {
+    height: fit-content;
+}
+
+.pokemon-container[b-m5mn53a8gp] {
+    display: block;
+}
+
+.pokemon-container > div[b-m5mn53a8gp]{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+.guess-component-container[b-m5mn53a8gp] {
+    width: 100%
+}
+
+.confirm-button-container[b-m5mn53a8gp] {
+    width: 100%;
+    left: auto;
+}
+
+#confirm-button[b-m5mn53a8gp] {
+    background-color: #81a4f7;
+    color: black;
+    border-radius: 10%;
+}
+
+    #confirm-button:hover[b-m5mn53a8gp] {
+        background-color: white;
+        color: black;
+    }
+/* /Shared/RoundSelectorButton.razor.rz.scp.css */
+body[b-ut3zr12ori] {
+}
+
+.round-selector-button-container[b-ut3zr12ori]{
+
+}
+
+button[b-ut3zr12ori] {
+    border-color: #b0acac;
+    border-radius: 20px;
+    border-width: thick;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin: 1px;
+    padding: 1px;
+    width: 50px;
+    height: 50px;
+    color: black;
+}
+
+.unpressed[b-ut3zr12ori] {
+    background-color: #e33d3d;
+}
+
+    .unpressed:hover[b-ut3zr12ori] {
+        border-color: #e33d3d;
+        background-color: white;
+    }
+
+.pressed[b-ut3zr12ori] {
+    background-color: #0e9c1c;
+}
+
+    .pressed:hover[b-ut3zr12ori] {
+        border-color: #0e9c1c;
+        background-color: white;
+    }
+/* /Shared/RoundSelectorComponent.razor.rz.scp.css */
+body[b-2witekicuk] {
+}
+.round-selector-label[b-2witekicuk]{
+    text-align: center;
+}
+.round-buttons-container[b-2witekicuk]{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.round-selector-container[b-2witekicuk]{
+    display: block;
+}
+
+.round-selector-container > div[b-2witekicuk]{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.round-button-component[b-2witekicuk]{
+
+}
+/* /Shared/SpriteComponent.razor.rz.scp.css */
+body[b-uacuknt6qb] {
+}
+
+.sprite-container[b-uacuknt6qb]{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.sprite[b-uacuknt6qb]{
+    box-sizing: border-box;
+}
+/* /Shared/TypeImageComponent.razor.rz.scp.css */
+body[b-6h50fqkl1m] {
+}
+
+.type-image-container[b-6h50fqkl1m]{
+    width: fit-content;
+    height: fit-content;
+}
